@@ -1,2 +1,4 @@
-# rr_practice
-A repository to test out my efforts to make my research more reproducible
+How to fold a paper airplane
+
+1. fold it
+2. scissor the paper
